@@ -1,2 +1,2 @@
 # Prac 5
-Repository of ASVK practice autumn 2025 CMC MSU
+Repository of ASVK practice autumn 2025 CMC MSU supporting Python Programming Language lecture course
